@@ -3,8 +3,17 @@
     color: white;
     line-height: 50px;
     text-align: center;
+    /* width: 800px; */
 }
 
 .heading {
     color: rgb(123, 123, 228);
+    margin-top: 0;
+    padding-top: 20px;
+    margin-bottom: 0;
+}
+
+.paragraph {
+    margin: 0;
+    padding: 0;
 }

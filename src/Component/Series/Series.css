@@ -1,3 +1,4 @@
+/* series container */
 .single-series-container {
     border: 1px solid lightgray;
     text-align: center;
@@ -10,19 +11,24 @@
     margin-left: 10px;
 }
 
+/* image resize  */
 .single-series-container img {
-    width: 200px;
-    height: 200px;
+    width: 120px;
+    height: 120px;
     margin-top: 5px;
     border-radius: 50%;
 
 }
+
+/* hover effect  */
 
 .single-series-container:hover {
     background-color: rgb(141, 112, 112);
     color: white;
     transform: scaleY(1.1)
 }
+
+/* button  */
 
 .fav-btn {
     background-color: tomato;
@@ -34,6 +40,8 @@
     color: white;
     cursor: pointer;
 }
+
+/* inside button  */
 
 .fav-btn-txt {
     font-weight: 500;

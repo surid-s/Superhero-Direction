@@ -33,6 +33,7 @@ const Serieses = () => {
 
             </div>
             <div className="review-container">
+                {/* sending data to Summery component  */}
                 <Summery cart={cart}></Summery>
             </div>
         </div>

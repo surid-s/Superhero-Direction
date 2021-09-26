@@ -9,6 +9,7 @@ const Series = (props) => {
     const element = <FontAwesomeIcon icon={faShoppingCart} />
     return (
         <div className="single-series-container">
+            {/* showing details dinamically  */}
             <img src={img} alt="" />
             <h4>Name: {name}</h4>
             <h4>By: {creator}</h4>

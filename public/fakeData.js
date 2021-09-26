@@ -73,5 +73,37 @@
 //     rating: 8.3,
 //     budget: 20000
 // },
+// {
+//     name: 'Prison Break',
+//     creator: 'Paul Scheuring',
+//     genre: 'political conspiracy',
+//     img: 'https://i.pinimg.com/550x/69/fe/ea/69feea481e481c5a0ae1285244d07302.jpg',
+//     rating: 8.3,
+//     budget: 200000
+// },
+// {
+//     name: 'Squid Game',
+//     creator: 'Hwang Dong-hyuk.',
+//     genre: 'survival drama',
+//     img: 'https://media.thevibes.com/images/uploads/covers/July_2021/_large/Squid_Game-_Pre-Teaser_Poster-1.jpg',
+//     rating: 8.2,
+//     budget: 160000
+// },
+// {
+//     name: 'The Family Man',
+//     creator: 'Raj Nidimoru and Krishna D.K',
+//     genre: ' edgy action-drama series',
+//     img: 'https://www.bollywoodhungama.com/wp-content/uploads/2021/05/BREAKING-The-Family-Man-2s-trailer-to-be-out-on-THIS-date.jpg',
+//     rating: 8.8,
+//     budget: 200055
+// },
+// {
+//     name: 'Banshee',
+//     creator: ' Chad Feehan',
+//     genre: 'Action; Drama; Crime thriller',
+//     img: 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/b179b54a-c6c2-4d81-8417-1bb908ea5ec1/d86vrmy-b0b4ba49-d0a9-4912-afc5-f67021269f05.png/v1/fill/w_512,h_512,strp/banshee___tv_series_folder_icon_v1_by_dyiddo_d86vrmy-fullview.png',
+//     rating: 8.4,
+//     budget: 302544
+// },
 
 // ]

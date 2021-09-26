@@ -11,6 +11,7 @@ const Summery = (props) => {
     }
     return (
         <div>
+            {/* this is the summery part or cart  */}
             <h2>Series Summery</h2>
             <h3>Favourite Items: {props.cart.length}  </h3>
             <h2>Total: {total}</h2>
