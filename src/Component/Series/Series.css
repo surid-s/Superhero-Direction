@@ -1,0 +1,34 @@
+.single-series-container {
+    border: 1px solid lightgray;
+    text-align: center;
+    margin-top: 2px;
+    border-radius: 25px;
+    background-color: rgba(88, 156, 158, 0.658);
+    color: rgb(5, 3, 3);
+    cursor: cell;
+}
+
+.single-series-container img {
+    width: 200px;
+    height: 200px;
+    margin-top: 5px;
+    border-radius: 50%;
+
+}
+
+.single-series-container:hover {
+    background-color: black;
+    color: white;
+    transform: scaleY(1.1)
+}
+
+.fav-btn {
+    background-color: tomato;
+    width: 120px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    color: white;
+    cursor: pointer;
+}
