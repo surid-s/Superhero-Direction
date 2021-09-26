@@ -34,3 +34,8 @@
     color: white;
     cursor: pointer;
 }
+
+.fav-btn-txt {
+    font-weight: 500;
+    margin-left: 2px;
+}
