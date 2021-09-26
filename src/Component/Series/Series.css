@@ -6,6 +6,8 @@
     background-color: rgba(88, 156, 158, 0.658);
     color: rgb(5, 3, 3);
     cursor: cell;
+    margin-bottom: 10px;
+    margin-left: 10px;
 }
 
 .single-series-container img {
@@ -17,16 +19,16 @@
 }
 
 .single-series-container:hover {
-    background-color: black;
+    background-color: rgb(141, 112, 112);
     color: white;
     transform: scaleY(1.1)
 }
 
 .fav-btn {
     background-color: tomato;
-    width: 120px;
+    width: 150px;
     height: 30px;
-    border: 1px solid black;
+    border: 1px solid rgb(160, 126, 126);
     border-radius: 20px;
     margin-bottom: 10px;
     color: white;
